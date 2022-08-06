@@ -1,4 +1,4 @@
-import { Component } from 'react';
+import React, { Component } from 'react';
 import Display from './Display';
 import BtnPanel from './BtnPanel';
 import '../styles/index.css';
